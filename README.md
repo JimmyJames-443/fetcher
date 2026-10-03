@@ -9,7 +9,7 @@
 
 
 
-To help determine the person to be:-
+To help determine the person to be:-  
 • Writing and Updating Documentation.  
 • Writing Unit Tests.   
 • Trivial Bug Fixing .  
