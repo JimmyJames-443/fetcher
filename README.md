@@ -1,6 +1,11 @@
-# fetcher!-nevermind it!
-
-third emblem that wants to fail me.
-secondy wahala
-!!
-!
+# A Nice alternative to rock paper scissors ..
+---
+To help determine the person to be:-
+• Writing and Updating Documentation
+• Writing Unit Tests
+• Trivial Bug Fixing
+• Legacy Code Refactoring
+• Setting up Internal Tools
+---
+we cant rely on always leaving it to the last person pushing  as the intensity of tweaks may vary.
+This is a less bias and non predictable tool to be used by developers.
