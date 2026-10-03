@@ -1,4 +1,4 @@
-# A Nice alternative to rock paper scissors ..
+# A Nice alternative to Rock Paper Scissors ..
 ---
 
 
