@@ -11,11 +11,11 @@
 
 To help determine the person to be:-
 • Writing and Updating Documentation.  
-• Writing Unit Tests.  
-• Trivial Bug Fixing .
-• Legacy Code Refactoring.
-• Setting up Internal Tools.
-• Resolving Merge conflicts.
+• Writing Unit Tests.   
+• Trivial Bug Fixing .  
+• Legacy Code Refactoring.  
+• Setting up Internal Tools.  
+• Resolving Merge conflicts.  
 ---
 ---
 ---
